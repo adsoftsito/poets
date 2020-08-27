@@ -1,1 +1,3 @@
 code ok  here
+
+polinomio ok
